@@ -1,0 +1,61 @@
+{
+	 "HTML-START": {
+	 	"prefix": "start_x",
+	 	"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en-US\">",
+			"<head>",
+			"    <meta charset=\"UTF-8\">",
+			"    <meta http-equiv=\"Content-Type\" content=\"text/html\">",
+			"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"    <title>${1:Default Title}</title>",
+			"    <link rel=\"shortcut icon\" href=\"favicon.ico\">",
+			"    <link rel=\"icon\" href=\"favicon.ico\">",
+			"    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/index.css\">",
+			"    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\">",
+			"    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/content.css\">",
+			"    <!--GOOGLE__FONTS-->",
+			"    <!--GOOGLE__FONTS__END-->",
+			"    <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js\"></script>",
+			"    <script src=\"https://kit.fontawesome.com/1df304c6a6.js\" crossorigin=\"anonymous\"></script>",
+			"    <!--[if lt IE 9]>",
+			"    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>",
+			"    <![endif]-->",
+			"</head>",
+			"<body>",
+			"<!--BODY-->",
+			"<!--BODY__END-->",
+			"<!--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====-->",
+			"<!--SCRIPTS-->",
+			"<script src=\"js/main.js\"></script>",
+			"<!--SCRIPTS__END-->",
+			"<!--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====-->",
+			"<!--Thank you for taking advantage of my work. You can contact me on GitHub and VKontakte-->",
+			"<!--GitHub       https://github.com/Xarvestor -->",
+			"<!--Vkontakte    https://vk.com/xarvestor -->",
+			"</body>",
+			"</html>",
+	 	],
+	 	"description": "DEFAULT HTML-START SNIPPET"
+	 },
+	 "META-DESC": {
+		"prefix": "metaDesk_x",
+		"body": "<meta name=\"description\" content=\"$1\">",
+		"description": "Meta Description"
+	 },
+	 "META-KEYWORDS": {
+		"prefix": "metaKeywords_x",
+		"body": "<meta name=\"keywords\" content=\"$1\">",
+		"description": "Keywords"
+	 },
+	 "HTML-SEPARATOR": {
+		"prefix": "separator_x",
+		"body": "<!--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====--=====-->",
+		"description": "HTML separator"
+	 },
+	 "HTML-WARNING": {
+		"prefix": "warning_x",
+		"body": "<!----------WARNING!!!---------->",
+		"description": "HTML warning"
+	 }
+	}
