@@ -1,0 +1,12 @@
+{
+	"CSS-MARGIN": {
+		"prefix": "margin_x",
+		"body": "margin: 0px 0px 0px 0px",
+		"description": "MARGIN IN SASS"
+	 },
+	 "CSS-PADDING": {
+		"prefix": "padding_x",
+		"body": "padding: 0px 0px 0px 0px",
+		"description": "PADDING IN SASS"
+	 },
+}
